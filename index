@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>INOVA Controle</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #333;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+      text-align: center;
+    }
+
+    h1, h2 {
+      color: #1a1a1a;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 20px;
+      background-color: #25D366;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+
+    .btn:hover {
+      background-color: #1ebe5d;
+    }
+
+
+input, textarea {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  margin: auto;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+  </style>
+</head>
+
+</html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>INOVA Controle</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #333;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+      text-align: center;
+    }
+
+    h1, h2 {
+      color: #1a1a1a;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 20px;
+      background-color: #25D366;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+
+    .btn:hover {
+      background-color: #1ebe5d;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- TOPO -->
+  <section>
+    <h1>INOVA Controle</h1>
+    <p>Soluções técnicas para controle, medição e eficiência industrial</p>
+
+    <a class="btn" 
+       href="https://wa.me/5547989004903?text=Olá%20Saulo,%20vi%20seu%20site%20e%20gostaria%20de%20mais%20informações." 
+       target="_blank">
+      Fale comigo no WhatsApp
+    </a>
+  </section>
+
+<!-- SERVIÇOS -->
+<section>
+  <h2>O que oferecemos</h2>
+
+  <p><strong>✔ Sistemas MES</strong><br>
+  Monitoramento da produção em tempo real, apontamentos automáticos e aumento de eficiência.</p>
+
+  <p><strong>✔ Metrologia e Controle Dimensional</strong><br>
+  Equipamentos e soluções para medição precisa e confiável.</p>
+
+  <p><strong>✔ Instrumentos e Equipamentos</strong><br>
+  Soluções técnicas para inspeção, controle e qualidade industrial.</p>
+
+  <p><strong>✔ Indústria 4.0</strong><br>
+  Integração de dados, digitalização e tomada de decisão baseada em dados.</p>
+</section>
+
+
+<!-- PROBLEMAS -->
+<section>
+  <h2>Problemas que resolvemos</h2>
+
+  <p>❌ Falta de controle da produção em tempo real</p>
+  <p>❌ Apontamentos manuais e erros de informação</p>
+  <p>❌ Dificuldade em identificar paradas e perdas</p>
+  <p>❌ Baixa confiabilidade nos dados</p>
+  <p>❌ Falhas no controle dimensional e qualidade</p>
+  <p>❌ Decisões baseadas em “achismo”</p>
+
+  <p><strong>✔ Transformamos dados em informação para tomada de decisão</strong></p>
+</section>
+
+
+<!-- REPRESENTADAS -->
+<section>
+  <h2>Empresas representadas</h2>
+
+  <p>
+    <strong>Diatest do Brasil</strong><br>
+    Soluções em medição e controle dimensional<br>
+    <a href="https://www.diatest.com.br" target="_blank">diatest.com.br</a>
+  </p>
+
+  <p>
+    <strong>TNAH</strong><br>
+    Sistema MES para monitoramento e gestão da produção<br>
+    <a href="https://tnah.io" target="_blank">tnah.io</a>
+  </p>
+</section>
+
+
+<!-- CONTATO -->
+<section>
+  <h2>Entre em contato</h2>
+
+  <form action="https://formsubmit.co/saulo@inovacontrole.com.br" method="POST">
+    
+    <input type="text" name="name" placeholder="Seu nome" required><br><br>
+    
+    <input type="email" name="email" placeholder="Seu e-mail" required><br><br>
+    
+    <input type="text" name="empresa" placeholder="Empresa"><br><br>
+    
+    <textarea name="message" placeholder="Mensagem" rows="5" required></textarea><br><br>
+
+    <button type="submit" class="btn">Enviar mensagem</button>
+
+    <!-- Configurações extras -->
+    <input type="hidden" name="_subject" value="Novo contato pelo site INOVA Controle">
+    <input type="hidden" name="_captcha" value="false">
+    
+  </form>
+
+  <p>Ou se preferir:</p>
+
+  <a class="btn" 
+     href="https://wa.me/5547989004903?text=Olá%20Saulo,%20vi%20seu%20site%20e%20gostaria%20de%20mais%20informações." 
+     target="_blank">
+    Falar no WhatsApp
+  </a>
+
+  <p><br>
+  📧 saulo@inovacontrole.com.br<br>
+  📞 47 98900-4903
+  </p>
+</section>
+
+
+</body>
+</html>
